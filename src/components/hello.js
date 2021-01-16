@@ -2,7 +2,7 @@ import React from "react";   //importing react class from react package
 
 class Hello extends React.Component {
   render() {
-    return <div>Hello from hello.js</div>
+    return <div>Hello you</div>
   }
 }
 
