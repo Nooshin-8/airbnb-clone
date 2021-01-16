@@ -1,5 +1,5 @@
 .flat {
-  flex-basis: calc(50% - 20px);
+  flex-basis: calc(50% - 20px); /* why 20px? because you have 10 margin on the left and 10 on the right */
   margin: 10px;
   cursor: pointer;
 }
