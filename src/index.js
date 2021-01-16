@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Hello from './components/hello';
-import Flat from './components/flat';
+// import Hello from './components/hello';
+// import Flat from './components/flat';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Hello name="noonootravel" />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
